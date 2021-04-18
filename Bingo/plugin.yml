@@ -1,0 +1,10 @@
+name: Bingo
+version: ${project.version}
+main: de.near.bingo.Bingo
+api-version: 1.16
+authors: [Near78]
+description: A Bingo minigame
+
+commands:
+  bingo:
+    usage: /<command>
